@@ -22,4 +22,3 @@ Libs.DevCryptoWalletBot.Deposit({
   secret_key: secret,
   user: user.id
 })
-

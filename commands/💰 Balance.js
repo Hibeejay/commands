@@ -15,4 +15,3 @@ Libs.DevCryptoWalletBot.GetBalance({
   currency: cur,
   user: user.id
 })
-

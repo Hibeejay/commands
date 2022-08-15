@@ -11,4 +11,3 @@ CMD*/
 
 Libs.DevCryptoWalletBot.setup()
 Bot.sendMessage("Setup your admin panel!")
-

@@ -1,7 +1,7 @@
 let libPrefix = "DevCryptoWalletBotLib"
 let lib = {
   endpoint:
-    "https://api.bots.business/v1/bots/703862/new-webhook?&command=connect%26transaction&public_user_token=14b4cb728407f20f080de711d113cf97&user_id=1949188",
+    "https://api.bots.business/v1/bots/723667/new-webhook?&command=connect%26transaction&public_user_token=a6d92fcc8f48480a661183aab06dbf20&user_id=12517367",
   commands: {
     onNotification: libPrefix + "_onNotification"
   },

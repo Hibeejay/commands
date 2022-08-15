@@ -9,7 +9,7 @@
   aliases: 
 CMD*/
 
-Libs.CryptoAdGateWayBot.Withdraw({
+Libs.DevCryptoWalletBot.Withdraw({
   api_key: api,
   secret_key: secret,
   currency: cur,

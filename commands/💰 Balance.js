@@ -9,7 +9,7 @@
   aliases: 
 CMD*/
 
-Libs.CryptoAdGateWayBot.GetBalance({
+Libs.DevCryptoWalletBot.GetBalance({
   api_key: api,
   secret_key: secret,
   currency: cur,

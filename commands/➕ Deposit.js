@@ -9,14 +9,14 @@
   aliases: 
 CMD*/
 
-Libs.CryptoAdGateWayBot.Deposit({
+Libs.DevCryptoWalletBot.Deposit({
   currency: cur,
   api_key: api,
   secret_key: secret,
   user: user.id
 })
 
-Libs.CryptoAdGateWayBot.Deposit({
+Libs.DevCryptoWalletBot.Deposit({
   currency: cur,
   api_key: api,
   secret_key: secret,

@@ -53,7 +53,7 @@ function getResultOptions() {
 }
 //notify
 function onNotification() {
-  Bot.run({ command: "/ONnotification", options: "33" })
+  Bot.run({ command: "/ONnotification gg", options: getOptions() })
 }
 //withdraw
 function Withdraw(options) {

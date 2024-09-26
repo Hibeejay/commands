@@ -17,4 +17,3 @@ Libs.DevCryptoWalletBot.Withdraw({
   address: address,
   user: user.id
 })
-
